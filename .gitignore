@@ -1,2 +1,5 @@
 .vscode
 .ipynb_checkpoints
+models/*
+glove-sbwc.i25.vec.gz
+glove-sbwc.i25.vec.gz.pt
